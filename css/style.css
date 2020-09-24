@@ -38,13 +38,13 @@ body {
 }
 
 
-.features h3, .designer h3, .similar-product h3, .cart-header h3, .checkout-modal-success h3 {
+.features h3, .designer h3, .similar-product h3, .cart-header h3, .checkout-modal-success h3, .category h3 {
   font-family: 'Lora';
   color: #1B2690;
   font-weight: bold;
 }
 
-.features p, .designer p, footer p, .similar-product p, .cart-header p, .checkout-modal-success p {
+.features p, .designer p, footer p, .similar-product p, .cart-header p, .checkout-modal-success p, .category p{
   font-weight: 200;
   color: #B7B7B7;
 }
